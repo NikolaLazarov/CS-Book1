@@ -1,0 +1,13 @@
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.exe
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.deps.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.runtimeconfig.dev.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\bin\Debug\netcoreapp3.1\Задача 9.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.csprojAssemblyReference.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 1\Задачи за самостоятелна работа\Задача 9\Задача 9\obj\Debug\netcoreapp3.1\Задача 9.genruntimeconfig.cache
