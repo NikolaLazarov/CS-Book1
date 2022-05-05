@@ -1,0 +1,16 @@
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.exe
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.deps.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.runtimeconfig.dev.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\ref\Истинският Листинг 4.8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\bin\Debug\net5.0\Истинският Листинг 4.8.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.csprojAssemblyReference.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\ref\Истинският Листинг 4.8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Истинският Листинг 4.8\obj\Debug\net5.0\Истинският Листинг 4.8.genruntimeconfig.cache

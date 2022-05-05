@@ -1,0 +1,16 @@
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.exe
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.deps.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.runtimeconfig.dev.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\ref\Листинг 4.10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\bin\Debug\net5.0\Листинг 4.10.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.csprojAssemblyReference.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\ref\Листинг 4.10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Листинг 4.10\obj\Debug\net5.0\Листинг 4.10.genruntimeconfig.cache
