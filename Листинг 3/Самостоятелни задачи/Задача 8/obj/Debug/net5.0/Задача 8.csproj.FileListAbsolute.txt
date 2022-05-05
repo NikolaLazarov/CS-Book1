@@ -1,0 +1,16 @@
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.exe
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.deps.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.runtimeconfig.dev.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\ref\Задача 8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\bin\Debug\net5.0\Задача 8.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.csprojAssemblyReference.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\ref\Задача 8.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 3.1\Самостоятелни Задачи\Задача 8\obj\Debug\net5.0\Задача 8.genruntimeconfig.cache
