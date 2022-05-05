@@ -1,0 +1,16 @@
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.exe
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.deps.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.runtimeconfig.dev.json
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\ref\Задача 10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\bin\Debug\net5.0\Задача 10.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.csprojAssemblyReference.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\ref\Задача 10.dll
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.pdb
+C:\Users\Lemocakes\Desktop\C# основи на езика\Листинг 4\Задачи за самостоятелна работа\Задача 10\obj\Debug\net5.0\Задача 10.genruntimeconfig.cache
